@@ -1,5 +1,5 @@
 {
-  "namespace": "com.cloudurable.kafka.schema",
+  "namespace": "com.local.kafka",
   "type": "record",
   "name": "Employee",
   "fields" : [
